@@ -1,3 +1,35 @@
-h1 {
-    color:blue;
+*{
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: beige;
+}
+
+.main-heading{
+    text-align: center;
+    margin-top: 50px;
+    color:brown;
+}
+
+.subtext{
+    font-style: italic;
+    text-align: center;
+}
+
+.sub-heading{
+    margin-left: 90px;
+}
+
+.recipe-list{
+    margin-left: 125px;
+}
+
+a:link
+{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.back-to-main{
+    margin-top: 150px;
+    margin-left: 50px;
 }
