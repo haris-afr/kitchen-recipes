@@ -37,6 +37,10 @@ a:visited
     font-weight: bold;
 }
 
+a:hover{
+    text-decoration: none;
+}
+
 .back-to-main{
     margin-top: 150px;
     margin-left: 50px;
